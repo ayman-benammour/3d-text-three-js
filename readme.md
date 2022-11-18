@@ -1,4 +1,4 @@
-# 3D text Three.js
+# 3D text - Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
